@@ -36,9 +36,9 @@ Four supervised machine learning classifiers were evaluated. The **Light Gradien
 
 | Algorithm | Accuracy | Precision | Recall | F1-Score |
 | --- | --- | --- | --- | --- |
-| AdaBoost | 80.80% | - | - | - |
-| SVM | 95.20% | - | - | - |
-| LDA | 96.00% | - | - | - |
+| AdaBoost | 80.80% | 81.53% | 81.59% | 81.34% |
+| SVM | 95.20% | 95.21% | 95.67% | 95.30% |
+| LDA | 96.00% | 96.40% | 96.16% | 96.16% |
 | **LGBM (Proposed)** | **98.93%** | **98.94%** | **98.94%** | **98.94%** |
 
 ## 💻 Tech Stack
